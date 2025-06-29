@@ -1,4 +1,4 @@
-<h1>🛍️ Local Store E-Commerce Platform</h1>
+<h1>🛍️ Local Store E-Commerce Platform-Prodigy FS Internship Task 03</h1>
 <p>A complete responsive e-commerce website designed for local stores. Customers can browse products, add to cart, checkout securely, and track orders. Built using <strong>HTML, CSS, JavaScript, PHP, and MySQL</strong>.</p>
 
 <hr>
