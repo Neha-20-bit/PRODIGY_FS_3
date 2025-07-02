@@ -51,6 +51,3 @@ Create an e-commerce website for a local store in your area, enabling customers 
 
 ---
 
-####  Live Preview
-
-🔗 [View Live Project](http://localhost:5173/)  
